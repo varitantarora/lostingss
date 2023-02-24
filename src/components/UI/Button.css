@@ -1,0 +1,31 @@
+/* .btn-outline-light,
+.btn-outline-light:hover,
+.btn-outline-light:active,
+.btn-outline-light:visited {
+  background-color: #fd7014 !important;
+  display: block;
+  background: #f6b352;
+  color: white;
+  padding: 15px 20px;
+  margin: 20px 0;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.9);
+  transition: all 200ms ease-in-out;
+  text-decoration: none;
+} */
+
+.btn {
+    display: inline-block;
+    background: #f6b352;
+    color: white;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.9);
+    transition: all 200ms ease-in-out;
+    text-decoration: none;
+  }
+  .btn:hover {
+    background: #f68657;
+    color: white;
+  }
